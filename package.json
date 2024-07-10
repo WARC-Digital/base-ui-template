@@ -1,5 +1,5 @@
 {
-  "name": "aop-ui-ssr",
+  "name": "base-project",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
