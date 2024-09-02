@@ -4,8 +4,6 @@
 
 /*** 1. Default Css  ***/
 * {
-  padding: 0;
-  margin: 0;
   box-sizing: border-box;
 }
 
@@ -48,7 +46,7 @@ h4,
 h5,
 h6,
 p {
-  margin: 0 !important;
+  margin: 0;
 }
 
 .clearfix::after {
